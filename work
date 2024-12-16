@@ -1,4 +1,4 @@
-import cv2
+"""import cv2
 import numpy as np
 
 def sort_contours(cnts, method="left-to-right"):
@@ -98,3 +98,5 @@ def box_extraction(img_for_box_extraction_path, cropped_dir_path):
 
 #Input image path and out folder
 box_extraction("41.jpg", "./Output/")
+"""
+consider Above code here what the things happens here please do the summarization in simple english. and specify me when i change or replace 41.jpg and add my another image . what will happen that time. can i add new image and if the new image is added then how i check the output . i dont understand . please guide me
